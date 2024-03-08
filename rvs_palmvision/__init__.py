@@ -1,0 +1,1 @@
+from rvs_palmvision.handgetmodule import handDetector
